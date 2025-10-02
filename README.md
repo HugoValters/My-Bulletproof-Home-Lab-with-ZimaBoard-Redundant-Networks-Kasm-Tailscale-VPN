@@ -19,8 +19,8 @@ Out of the box, Zima Board ships with CasaOS. For this powerhouse setup, we need
 ## Step 2: Configuring Redundant Networks for Zero Downtime
 
 Here's where the intrigue builds: Two independent networks, one smart failover.
+
+First, inspect your interfaces:
 ```
 ip a
 ```
-
-First, inspect your interfaces:
