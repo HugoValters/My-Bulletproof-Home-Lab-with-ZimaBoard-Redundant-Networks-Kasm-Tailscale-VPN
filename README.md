@@ -140,10 +140,10 @@ What’s next? More Tailscale scenarios in upcoming posts. If this sparked your 
 This post is based on my video tutorial. Not sponsored by Tailscale or Kasm, but hey, collaborations welcome! All rights reserved by Hugo Valters
 [YouTube Video on Building a Bulletproof Home Lab: Redundant Networks, Kasm, and Tailscale on Zima Board](https://www.youtube.com/watch?v=Wj6I6KFwl6s&t).
 
-Follow for more
-X.com: https://x.com/hugovalters
-bsky.app: https://bsky.app/profile/hugovalters.bsky.social
-YouTube: https://www.youtube.com/@hugovalters
-Homepage: https://www.valters.eu
-GitHub: https://github.com/hugovalters
+Follow for more:<br>
+X.com: https://x.com/hugovalters<br>
+bsky.app: https://bsky.app/profile/hugovalters.bsky.social<br>
+YouTube: https://www.youtube.com/@hugovalters<br>
+Homepage: https://www.valters.eu<br>
+GitHub: https://github.com/hugovalters<br>
 Medium: https://blog.valters.eu
