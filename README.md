@@ -148,3 +148,5 @@ Homepage: https://www.valters.eu<br>
 GitHub: https://github.com/hugovalters<br>
 GitLab: https://gitlab.com/hugovalters<br>
 Medium: https://blog.valters.eu
+
+By Hugo Valters
